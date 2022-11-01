@@ -15,4 +15,4 @@ git add .
 git commit -m 'MENSAGEM'
 git push origin master
 
-Para não utilizar o comando eval `ssh-agent -s` basta ir em program files->Git->etc->ssh->ssh-config e habilitar o caminho Infile tirando o #
+Para não utilizar o comando eval `ssh-agent -s` para ativar a chave ssh basta ir em program files->Git->etc->ssh->ssh-config e habilitar o caminho Infile tirando o #
